@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36057
     wikipedia: http://en.wikipedia.org/wiki/Catherine_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43358#Modern-Flirtations--A-Novel
 gutenberg_issued: '2013-07-30'
 gutenberg_type: Text
 identifiers:
