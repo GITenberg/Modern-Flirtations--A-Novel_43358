@@ -1,0 +1,35 @@
+_repo: Modern-Flirtations--A-Novel_43358
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43358-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sinclair, Catherine
+    birthdate: 1800
+    deathdate: 1864
+    gutenberg_agent_id: '36057'
+    url: http://www.gutenberg.org/2009/agents/36057
+    wikipedia: http://en.wikipedia.org/wiki/Catherine_Sinclair
+description: ''
+gutenberg_issued: '2013-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Uncles -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Harrogate (England) -- Fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+title: 'Modern Flirtations: A Novel'
+url: http://www.gutenberg.org/ebooks/43358
