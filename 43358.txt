@@ -283,7 +283,7 @@ essays, and long quotations, such as never are extemporized in any
 drawing-room, where too energetic a stroke given to the shuttlecock of
 conversation makes it instantly fall to the ground. The flagrant
 impossibilities by which a carelessly-written narrative is carried on,
-destroys often at once the illusion. Persons are described, who maybe
+destroys often at once the illusion. Persons are described, who may be
 overheard speaking aloud their most secret thoughts when supposing
 themselves alone, soliloquizing audibly in the streets, journalizing a
 history of their own crimes, becoming permanent guests in houses to
@@ -307,10 +307,12 @@ pages to the judgment of others, and cannot conclude in the words of a
 more universally venerated, or of a more generally popular fictitious
 author than the excellent Bunyan:
 
-"Thus I set pen to paper with delight, And quickly had my thought--in
-black and white; For having now my method by the end, Still as I
-pulled it came, and so I penned It down, until at last it came to be,
-For length and breadth, the bigness which you see."
+     "Thus I set pen to paper with delight,
+     And quickly had my thought—in black and white;
+     For having now my method by the end,
+     Still as I pulled it came, and so I penned
+     It down, until at last it came to be,
+     For length and breadth, the bigness which you see."
 
 
 
